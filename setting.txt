@@ -1,0 +1,3 @@
+This a setting file for my project,
+
+Thanks. ,
